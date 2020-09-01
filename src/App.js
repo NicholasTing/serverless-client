@@ -48,7 +48,7 @@ function App() {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to="/">Scratch</Link>
+              <Link to="/">Nicholas Serverless App</Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
